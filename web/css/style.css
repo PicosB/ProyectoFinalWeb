@@ -43,11 +43,16 @@ hr{
 }
 
 .p1{
-    margin-top: 250px;
+    margin-top: 200px;
     text-align: justify;
     font-family: sans-serif;
     line-height: 1.5;
     letter-spacing: 2px;
+}
+
+.footer{
+    text-align: center;
+    background: #4ea448;
 }
 
 
