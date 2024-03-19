@@ -54,7 +54,7 @@
 		header.fixed{
 			background: #fff;
 			border-bottom: 1px solid #eee;
-			height: 80px;
+			height: 170px;
 		}
 		header .container{
 			position: relative;
@@ -82,7 +82,7 @@
 		}
 		.site-branding a.logo img{
 			float: left;
-			max-width: 220px;
+			max-width: 110px;
 			height: auto;
 			margin: 0 0 0 0;
 			transition: max-width 0.4s ease-in-out;
@@ -243,7 +243,7 @@
 			width:100%;
 			margin:0 0 0 0;
 			padding:300px 0 220px 0;
-			background:url(images/bg2.jpg) no-repeat center center;
+			background:url(images/chimichanga.PNG) no-repeat center center;
 			background-size: cover;
 			position: relative;
 			z-index: 1;
