@@ -1,7 +1,6 @@
 /**
- * 	Template Name: FoodScoop	
- * 	Template By: LayoutFlow
- * 	URL: https://layoutflow.com/
+ * 	Equipo Aplicaciones Web
+ * 	Ene-May 2024
  * 	
  * */
 		*{
@@ -193,7 +192,7 @@
 			color: #000;
 		}
 		nav.headermenu ul li.active a{
-			background: #008dc7;
+			background: #4ca24b;
 			color: #fff !important;
 		}
 
@@ -224,7 +223,7 @@
 			margin-right: 0;
 		}
 		.contact-info a i{
-			color: #008dc7;
+			color:  #4ca24b;
 			margin-right: 5px;
 		}
 		header.fixed .contact-info a{
@@ -336,13 +335,14 @@
 		.about .text h3{
 			text-align:left;
 			color:#000;
-			font-size:90px;
+			font-size:60px;
 			font-family:'Poppins';
 			margin-bottom: 10px;
+			margin-top: 0px;
 		}
 		.about .text h4{
 			text-align:left;
-			color:#008dc7;
+			color: #4ca24b;
 			font-size:30px;
 			font-family:'Poppins';
 			font-weight: normal;
@@ -356,7 +356,7 @@
 			font-size:18px;
 			line-height: 170%;
 			font-family:'Poppins';
-			margin-bottom: 30px;
+			margin-bottom: 20px;
 		}
 		.about .text ul{
 			list-style: disc;
@@ -367,7 +367,7 @@
 			color:#000;
 			font-size:18px;
 			font-family:'Poppins';
-			margin-bottom: 5px;
+			margin-bottom: 3px;
 		}
 		/* -- ABOUT CSS ENDS -- */
 
@@ -404,7 +404,7 @@
 		}
 		.foodmenu h4{
 			text-align:center;
-			color:#008dc7;
+			color: #4ca24b;
 			font-size:21px;
 			font-family:'Poppins';
 			font-weight: normal;
@@ -431,7 +431,7 @@
 		}
 		.menuitems_wrap .item h6{
 			text-align:center;
-			color:#008dc7;
+			color: #4ca24b;
 			font-size:12px;
 			font-family:'Poppins';
 			margin-bottom: 15px;
@@ -444,11 +444,11 @@
 			font-size:21px;
 			font-family:'Poppins';
 			font-weight: 500;
-			margin-bottom: 12px;
+			margin-bottom: 12px;	
 		}
 		.menuitems_wrap .item p{
 			text-align:center;
-			color:#666;
+			color:#000000;
 			font-size:15px;
 			font-family:'Poppins';
 			font-style: italic;
@@ -468,7 +468,7 @@
 			margin:0 0 0 0;
 			padding:100px 0 100px 0;
 			position: relative;
-			background: #008dc7;
+			background:  #4ca24b;
 		}
 		.contactsection h3{
 			text-align:left;
@@ -538,7 +538,7 @@
 			font-family:'Poppins';
 			margin: 30px 0 0 0;
 			cursor: pointer;
-			background: #ffc818;
+			background: #f8b828;
 			border: none;
 			text-transform: uppercase;
 		}
@@ -564,7 +564,7 @@
 			width:100%;
 			margin:0 0 0 0;
 			padding:40px 0;
-			background: #52b6e0;
+			background: #a1d59f;
 			text-align:left;
 			color:#fff;
 			font-size:36px;
@@ -601,7 +601,7 @@
 			font-family:'Poppins';
 		}
 		.copyright a{
-			color: #008dc7;
+			color: #a1d59f;
 			text-decoration: none;
 			border-bottom: 1px solid #000;
 		}
