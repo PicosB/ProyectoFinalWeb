@@ -29,11 +29,11 @@
 		.site-branding a.logo{
 		}
 		.site-branding a.logo img{
-			max-width: 120px;
+			max-width: 110px;
 			height: auto;
 		}
 		header.fixed .site-branding a.logo img{
-			max-width: 120px;
+			max-width: 110px;
 		}
 		.site-branding a.logo img.logo-2{
 			visibility: visible;
